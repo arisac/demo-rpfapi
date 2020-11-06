@@ -23,6 +23,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://arisac.github.io/ghp",
   "browserslist": {
     "production": [
       ">0.2%",
