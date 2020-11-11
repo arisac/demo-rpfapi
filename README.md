@@ -21,3 +21,5 @@ This Action will deploy each commit to [arisac.github.io/demo-rpfapi/](https://a
 This Github Action script is using [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) to to the job.
 
 For repos forked from here you have to turn on yourself in your repo's `Actions Tab`.
+
+Don't forget to change `homepage` url in [package.json](package.json) file.
